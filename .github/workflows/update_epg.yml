@@ -1,0 +1,28 @@
+name: Auto Update EPG
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: szenius/set-timezone@v2.0
+        with:
+          timezoneLinux: "Europe/Warsaw"
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+      - name: install dependencies
+        run: npm install
+      - name: plguide
+        run: npm run grab --- --channels=pl.channels.xml --output=pl.guide.xml --maxConnections=5 --gzip 
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add pl.guide.xml pl.guide.xml.gz
+          git commit -m "Auto Update EPG"
+          git push
