@@ -71,7 +71,7 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports2.pl" site_id="eleven-sports-212">Eleven Sports 2</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports3.pl" site_id="eleven-extra-531">Eleven Sports 3</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports4.pl" site_id="eleven-sports-4-607">Eleven Sports 4</channel>
-  <channel site="programtv.onet.pl" lang="pl" xmltv_id="EpicDrama.se" site_id="epic-drama-610">Epic Drama</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="EpicDrama.pl" site_id="epic-drama-610">Epic Drama</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="EskaRockTV.pl" site_id="hip-hop-tv-511">Eska Rock TV</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="EskaTV.pl" site_id="eska-tv-114">Eska TV</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="EskaTVExtra.pl" site_id="eska-tv-extra-597">Eska TV Extra</channel>
@@ -256,6 +256,10 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="TVRegionalnaLubin.pl" site_id="tv-regionalna-lubin-166">TV Regionalna Lubin</channel>
   <channel site="programtv.onet.pl" lang="en" xmltv_id="CNBCEurope.uk" site_id="cnbc-247">CNBC</channel>
  <channel site="programtv.onet.pl" lang="pl" xmltv_id="NovelasPlus.pl" site_id="novelas">Novelas+</channel>
+ <channel site="programtv.onet.pl" lang="pl" xmltv_id="GolfZone.pl" site_id="golf-channel-553">Golf Zone</channel>
+ <channel site="programtv.onet.pl" lang="en" xmltv_id="MTVHitsEurope.uk" site_id="mtv-hits-476">MTV Hits</channel>
+ <channel site="programtv.onet.pl" lang="en" xmltv_id="ViDocTV.pl" site_id="ctv9">ViDoc TV</channel>
+ 
  
  
    <channel site="epgshare01.online" lang="en" xmltv_id="AFVFamily.pl" site_id="RAKUTEN_PL1#PL:.AFV.Family.pl">AFV Family</channel> 
