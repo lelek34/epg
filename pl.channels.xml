@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
  
@@ -259,10 +260,11 @@
  <channel site="programtv.onet.pl" lang="pl" xmltv_id="GolfZone.pl" site_id="golf-channel-553">Golf Zone</channel>
  <channel site="programtv.onet.pl" lang="en" xmltv_id="MTVHitsEurope.uk" site_id="mtv-hits-476">MTV Hits</channel>
  <channel site="programtv.onet.pl" lang="en" xmltv_id="ViDocTV.pl" site_id="ctv9">ViDoc TV</channel>
+ <channel site="programtv.onet.pl" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="bbc-world-news-254">BBC News</channel>
  
  
  
-   <channel site="epgshare01.online" lang="en" xmltv_id="AFVFamily.pl" site_id="RAKUTEN_PL1#PL:.AFV.Family.pl">AFV Family</channel> 
+  <channel site="epgshare01.online" lang="en" xmltv_id="AFVFamily.pl" site_id="RAKUTEN_PL1#PL:.AFV.Family.pl">AFV Family</channel> 
  <channel site="epgshare01.online" lang="en" xmltv_id="Bigtime.pl" site_id="RAKUTEN_PL1#PL:.Bigtime.-.Darmowe.Filmy.pl">Bigtime - Darmowe Filmy</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="CarCityAdventures.pl" site_id="RAKUTEN_PL1#PL:.Car.City.Adventures.pl">PL: Car City Adventures</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="DAZNCombat.pl" site_id="RAKUTEN_PL1#PL:.DAZN.Combat.pl">DAZN Combat</channel>
@@ -277,6 +279,22 @@
  <channel site="epgshare01.online" lang="en" xmltv_id="WorldPokerTour.pl" site_id="RAKUTEN_PL1#PL:.World.Poker.Tour.pl">World Poker Tour</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="FIFAPlus.pl" site_id="RAKUTEN_PL1#PL:.FIFA+.pl">FIFA+</channel>
  <channel site="epgshare01.online" lang="fr" xmltv_id="MuseumTVEnglish.fr" site_id="FR1#MUSEUM.TV.fr">MUSEUM TV</channel>
+ <channel site="epgshare01.online" lang="en" xmltv_id="LoneStar.pl" site_id="RAKUTEN_PL1#PL:.Lone.Star.pl">Lone Star</channel>
+ <channel site="epgshare01.online" lang="en" xmltv_id="MonsterJam.pl" site_id="RAKUTEN_PL1#PL:.Monster.Jam.pl">Monster Jam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="PeopleAreAwesome.pl" site_id="RAKUTEN_PL1#PL:.People.Are.Awesome.pl">PL: People Are Awesome</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="PFLMMA.pl" site_id="RAKUTEN_PL1#PL:.PFL.MMA.pl">PFL MMA</channel>
+ <channel site="epgshare01.online" lang="en" xmltv_id="RakutenVIKI.pl" site_id="RAKUTEN_PL1#PL:.Rakuten.VIKI.pl">Rakuten VIKI</channel>
+ <channel site="epgshare01.online" lang="en" xmltv_id="Revry.pl" site_id="RAKUTEN_PL1#PL:.Revry.pl">Revry</channel>
+ <channel site="epgshare01.online" lang="en" xmltv_id="ShadesofBlack.pl" site_id="RAKUTEN_PL1#PL:.Shades.of.Black.pl">Shades of Black</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="ThePetCollective.pl" site_id="RAKUTEN_PL1#PL:.The.Pet.Collective.pl">The Pet Collective</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="TNAWrestlingChannel.pl" site_id="RAKUTEN_PL1#PL:.TNA.Wrestling.Channel.pl">TNA Wrestling Channel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="TOPBarca.pl" site_id="RAKUTEN_PL1#PL:.TOP.Barça.pl">TOP Barca</channel>
+   <channel site="epgshare01.online" lang="en" xmltv_id="WorldBilliards.pl" site_id="RAKUTEN_PL1#PL:.World.Billiards.TV.pl">World Billiards TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="WorldofFreesports.pl" site_id="RAKUTEN_PL1#PL:.World.of.Freesports.pl">World of Freesports</channel>
+   <channel site="epgshare01.online" lang="en" xmltv_id="WorldPokerTour.pl" site_id="RAKUTEN_PL1#PL:.World.Poker.Tour.pl">World Poker Tour</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="ZNation.pl" site_id="RAKUTEN_PL1#PL:.Z.Nation.pl">Z Nation</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="ZeeOne.pl" site_id="RAKUTEN_PL1#PL:.Zee.One.pl">Zee One</channel>
+ <channel site="epgshare01.online" lang="pl" xmltv_id="TelewizjaTorun.pl" site_id="PL1#TV.Toruń.pl">TV Toruń</channel>
 
  
 
